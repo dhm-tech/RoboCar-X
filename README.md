@@ -45,7 +45,8 @@ We built a robot car capable of avoiding obstacles with zero user control:
 ## ⚡ Circuit Design
 
 > 📷 See `TinkerCAD-Sketch.png`  
-> 🛠️ Includes:
+
+🛠️ Includes:
 - 2x L298N Motor Drivers
 - HC-SR04 Ultrasonic Sensor
 - Arduino UNO
