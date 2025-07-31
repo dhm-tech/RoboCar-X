@@ -86,11 +86,11 @@ If blocked: stop and turn
 
 ## 🎞️ Demo & Simulation
 
-###🧪 TinkerCAD Simulation
+### 🧪 TinkerCAD Simulation
 
 https://github.com/user-attachments/assets/0ff8258a-567c-41a4-b77e-9dcb00278561
 
-###🤖 Real Robot Demo
+### 🤖 Real Robot Demo
 
 https://github.com/user-attachments/assets/edc750fd-f77a-41f0-92bf-6ac0b60549a1
 
